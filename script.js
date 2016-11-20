@@ -20,7 +20,7 @@ function Toggler(selector) {
 var elem = new Toggler("#section");
 var button = document.querySelector("#button");
 
-console.log(button)
+//console.log(button)
  
 button.addEventListener("click", function() {
  
